@@ -1,0 +1,15 @@
+{
+    "name": "haphan/subscene-parser",
+    "description": "PHP Library that allows to parse and extract data from subscene.com (v3)",
+    "require": {
+        "sunra/php-simple-html-dom-parser": "~1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ha Phan",
+            "email": "thanhha.work@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
